@@ -8,8 +8,23 @@
   </url>
   
   <url>
+    <loc>/2018/12/trust_in_ml_slides_ix/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/11/how_cnns_learn/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/11/ml_basics_gbm/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/11/slides_demystifying_dl/</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -376,6 +391,12 @@
   </url>
   
   <url>
+    <loc>/tags/anchors/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/anomaly-detection/</loc>
     <lastmod>2017-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -383,7 +404,7 @@
   
   <url>
     <loc>/tags/api/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -483,6 +504,12 @@
   </url>
   
   <url>
+    <loc>/tags/cnn/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/codecentric/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -496,7 +523,7 @@
   
   <url>
     <loc>/tags/codecentric.ai/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -531,6 +558,12 @@
   </url>
   
   <url>
+    <loc>/tags/customer-churn/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/data-science/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -550,7 +583,7 @@
   
   <url>
     <loc>/tags/deep-learning/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -646,7 +679,13 @@
   
   <url>
     <loc>/tags/gradient-boosting/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/gradient-boosting/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -666,10 +705,6 @@
     <loc>/tags/horovod/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/1/01/how-do-convolutional-neural-nets-cnns-learn---keras-example/</loc>
   </url>
   
   <url>
@@ -728,7 +763,7 @@
   
   <url>
     <loc>/tags/lime/</loc>
-    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -758,7 +793,7 @@
   
   <url>
     <loc>/categories/machine-learning/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -890,7 +925,7 @@
   
   <url>
     <loc>/tags/plumber/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -908,6 +943,12 @@
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/predictive-analytics/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -950,7 +991,7 @@
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1033,8 +1074,14 @@
   </url>
   
   <url>
+    <loc>/tags/slides/</loc>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/slides/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1112,7 +1159,7 @@
   
   <url>
     <loc>/tags/twimlai/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1160,7 +1207,13 @@
   
   <url>
     <loc>/tags/xgboost/</loc>
-    <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/xgboost/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
